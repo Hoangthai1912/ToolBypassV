@@ -21,3 +21,5 @@
 * ```sh install.sh```
 # Video Hướng Dẫn
 * t.me/+-8EFBSxln4Y2ZWY1
+# Contact
+* zalo:0378977232
